@@ -1,3 +1,4 @@
 Name: Mark Kenrick B. Gesmundo
+Section: BSCS 1 A
 Program: BS Computer Science 
 Address: Brgy. Santa Catalina SPC
